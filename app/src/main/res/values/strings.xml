@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Google Pay Integration</string>
+    <string name="transaction_successful">Transaction successful of ₹</string>
+    <string name="transaction_failed">Transaction Failed of ₹</string>
+    <string name="transaction_note">Transaction note</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="upi_id">UPI ID</string>
+    <string name="name">Name</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="yogesh_bansal">Yogesh Bansal</string>
+    <string name="donation">donation</string>
+    <string name="_10">10</string>
+    <string name="bansal_yogesh940_okaxis">bansal.yogesh940@okaxis</string>
+</resources>
